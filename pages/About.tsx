@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import Users from '../components/Cards_api/users'
+import Users from '../components/Cards_api/users.js'
 import Cards from '../Components/CardsSection.js'
 import Aos from 'aos';
 import "aos/dist/aos.css"
